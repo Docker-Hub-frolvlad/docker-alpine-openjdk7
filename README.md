@@ -1,3 +1,7 @@
+[![Docker Stars](https://img.shields.io/docker/stars/frolvlad/alpine-openjdk7.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-openjdk7/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/frolvlad/alpine-openjdk7.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-openjdk7/)
+
+
 OpenJDK 7 Docker image
 =======================
 
